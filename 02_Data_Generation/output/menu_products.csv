@@ -1,0 +1,74 @@
+ProductID,ProductName,Category,BasePriceNGN,SupplyType,IsActive
+P001,Jollof Rice,Rice,2800,Branch,True
+P002,Fried Rice,Rice,3000,Branch,True
+P003,White Rice,Rice,2200,Branch,True
+P004,Rice and Beans,Rice,2600,Branch,True
+P005,Ofada Rice,Rice,3200,Branch,True
+P006,Jollof Spaghetti,Pasta,2900,Branch,True
+P007,Vegetable Spaghetti,Pasta,2900,Branch,True
+P008,Stir-Fried Noodles,Pasta,2600,Branch,True
+P009,Plain Noodles,Pasta,2200,Branch,True
+P010,Eba,Swallow,1000,Branch,True
+P011,Amala,Swallow,1200,Branch,True
+P012,Semo,Swallow,1100,Branch,True
+P013,Pounded Yam,Swallow,1700,Branch,True
+P014,Fufu,Swallow,1100,Branch,True
+P015,Egusi Soup,Soup,2400,Branch,True
+P016,Efo Riro,Soup,2300,Branch,True
+P017,Ogbono Soup,Soup,2500,Branch,True
+P018,Gbegiri Soup,Soup,2000,Branch,True
+P019,Okra Soup,Soup,2000,Branch,True
+P020,Banga Soup,Soup,2700,Branch,True
+P021,Oha Soup,Soup,2600,Branch,True
+P022,Fried Beef,Protein,2000,Branch,True
+P023,Grilled Chicken,Protein,4000,Branch,True
+P024,Grilled Turkey,Protein,4500,Branch,True
+P025,Hake Fish,Protein,3200,Branch,True
+P026,Titus Fish,Protein,2800,Branch,True
+P027,Boiled Egg,Protein,700,Branch,True
+P028,Fried Egg,Protein,800,Branch,True
+P029,Goat Meat,Protein,3400,Branch,True
+P030,Assorted Meat,Protein,2500,Branch,True
+P031,Peppered Chicken,Protein,4200,Branch,True
+P032,Peppered Turkey,Protein,4700,Branch,True
+P033,Fish Stew,Protein,3200,Branch,True
+P034,Beef Stew,Protein,2400,Branch,True
+P035,Fried Plantain,Sides,1200,Branch,True
+P036,Beans Porridge,Sides,2300,Branch,True
+P037,Yam Porridge,Sides,2500,Branch,True
+P038,Coleslaw,Sides,1100,Branch,True
+P039,Moi Moi,Sides,1300,Central,True
+P040,Yam Fries,Sides,1700,Branch,True
+P041,Potato Fries,Sides,1900,Branch,True
+P042,Meat Pie,Bakery,1800,Central,True
+P043,Chicken Pie,Bakery,2000,Central,True
+P044,Sausage Roll,Bakery,1500,Central,True
+P045,Doughnut,Bakery,1000,Central,True
+P046,Puff Puff,Bakery,800,Central,True
+P047,Bread Loaf,Bakery,2500,Central,True
+P048,Coconut Bread,Bakery,2800,Central,True
+P049,Chocolate Cake Slice,Bakery,2300,Central,True
+P050,Vanilla Cake Slice,Bakery,2100,Central,True
+P051,Cupcake,Bakery,1400,Central,True
+P052,Chin Chin Pack,Bakery,1100,Central,True
+P053,Fish Roll,Bakery,1700,Central,True
+P054,Bottled Water,Beverage,500,Purchased,True
+P055,Cola,Beverage,800,Purchased,True
+P056,Orange Soda,Beverage,800,Purchased,True
+P057,Lemon-Lime Soda,Beverage,800,Purchased,True
+P058,Malt Drink,Beverage,1200,Purchased,True
+P059,Fruit Juice,Beverage,1600,Purchased,True
+P060,Yoghurt Drink,Beverage,1800,Purchased,True
+P061,Zobo Drink,Beverage,1000,Central,True
+P062,Ice Cream Cup,Dessert,1700,Purchased,True
+P063,Fruit Salad,Dessert,2000,Central,True
+P064,Parfait,Dessert,2800,Central,True
+P065,Custard Cup,Dessert,1500,Central,True
+P066,Chicken Shawarma,Specials,3800,Branch,True
+P067,Beef Shawarma,Specials,3500,Branch,True
+P068,Chicken Burger,Specials,4000,Branch,True
+P069,Beef Burger,Specials,3700,Branch,True
+P070,Club Sandwich,Specials,3500,Branch,True
+P071,Pepper Soup,Specials,3400,Branch,True
+P072,Grilled Fish Platter,Specials,6500,Branch,True
+P073,Breakfast Combo,Specials,3500,Branch,True

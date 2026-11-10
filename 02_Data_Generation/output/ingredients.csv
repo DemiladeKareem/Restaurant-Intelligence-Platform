@@ -1,0 +1,62 @@
+IngredientID,IngredientName,Unit,StandardCostNGN
+ING001,Rice,kg,1500.0
+ING002,Beans,kg,1700.0
+ING003,Spaghetti,kg,2200.0
+ING004,Noodles,kg,2800.0
+ING005,Garri,kg,950.0
+ING006,Yam Flour,kg,2100.0
+ING007,Semolina,kg,1800.0
+ING008,Pounded Yam Flour,kg,2600.0
+ING009,Cassava Flour,kg,1100.0
+ING010,Egusi,kg,5500.0
+ING011,Ogbono,kg,7200.0
+ING012,Okra,kg,1900.0
+ING013,Leafy Vegetables,kg,2200.0
+ING014,Tomatoes,kg,1900.0
+ING015,Pepper,kg,2300.0
+ING016,Onions,kg,1600.0
+ING017,Vegetable Oil,L,3000.0
+ING018,Palm Oil,L,2800.0
+ING019,Seasoning,kg,4800.0
+ING020,Salt,kg,600.0
+ING021,Chicken,kg,5600.0
+ING022,Turkey,kg,7200.0
+ING023,Beef,kg,5200.0
+ING024,Fish,kg,4800.0
+ING025,Goat Meat,kg,6800.0
+ING026,Assorted Meat,kg,4600.0
+ING027,Egg,piece,260.0
+ING028,Plantain,kg,1800.0
+ING029,Yam,kg,1600.0
+ING030,Potato,kg,1700.0
+ING031,Cabbage,kg,1800.0
+ING032,Carrot,kg,1800.0
+ING033,Flour,kg,1500.0
+ING034,Sugar,kg,1400.0
+ING035,Butter,kg,7500.0
+ING036,Milk,L,2400.0
+ING037,Baking Powder,kg,5500.0
+ING038,Yeast,kg,6800.0
+ING039,Cocoa,kg,6500.0
+ING040,Coconut,kg,2500.0
+ING041,Sausage,kg,4400.0
+ING042,Fruit Mix,kg,2600.0
+ING043,Yoghurt,L,2600.0
+ING044,Custard Powder,kg,2300.0
+ING045,Bread,piece,950.0
+ING046,Tortilla,piece,650.0
+ING047,Lettuce,kg,2500.0
+ING048,Mayonnaise,kg,3800.0
+ING049,Hibiscus,kg,3400.0
+ING050,Ginger,kg,2500.0
+ING051,Spices,kg,5500.0
+ING052,Water,L,150.0
+ING053,Groundnut Oil,L,3100.0
+FG054,Purchased: Bottled Water,piece,310.0
+FG055,Purchased: Cola,piece,496.0
+FG056,Purchased: Orange Soda,piece,496.0
+FG057,Purchased: Lemon-Lime Soda,piece,496.0
+FG058,Purchased: Malt Drink,piece,744.0
+FG059,Purchased: Fruit Juice,piece,992.0
+FG060,Purchased: Yoghurt Drink,piece,1116.0
+FG062,Purchased: Ice Cream Cup,piece,1054.0

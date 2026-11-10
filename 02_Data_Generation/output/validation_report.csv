@@ -1,0 +1,16 @@
+ValidationCheck,Status
+Unique order IDs,PASS
+Unique sales line IDs,PASS
+Every order has one payment,PASS
+Order revenue equals payments,PASS
+Order revenue equals sales lines,PASS
+No missing product costs,PASS
+All product costs positive,PASS
+Production quantities valid,PASS
+Ingredient consumption positive,PASS
+No negative stock,PASS
+Inventory reconciliation balances,PASS
+Expenses valid,PASS
+Expected reporting period,PASS
+All monthly expenses matched,PASS
+Profit calculation reconciles,PASS
